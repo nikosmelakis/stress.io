@@ -3,7 +3,7 @@ Soon available on App Store
 
 DESIGN AND IMPLEMENTATION OF AN APPLICATION IN FLUTTER FOR MONITORING AND ANALYSIS OF PHYSICAL ACTIVITY AND STESS LEVELS USING FITBIT
 
-<img width="457" alt="stressio" src="https://github.com/nikosmelakis/stress.io/assets/136566515/804b84ca-1392-4c4c-b13a-570e2fafcaa9">
+![img-removebg-preview](https://github.com/nikosmelakis/stress.io/assets/136566515/43c526d0-17ce-4197-afb4-f9d10913fd6d)
 
 
 # Copyright © 2023 All Rights Reserved 

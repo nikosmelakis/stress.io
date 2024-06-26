@@ -1,0 +1,53 @@
+name: temp
+description: Health App
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.5
+  google_fonts: ^5.1.0
+  flutter_svg: ^1.1.1
+  sizer: ^2.0.15
+  flutter_pw_validator:
+  curved_navigation_bar: ^1.0.3
+  syncfusion_flutter_charts: ^20.4.54
+  lottie: ^1.4.3
+  unicons: ^2.1.0
+  intl: ^0.17.0
+  flutter_holo_date_picker: ^1.0.3
+  path_provider: ^2.0.13
+  sqflite: ^2.2.6
+  animated_splash_screen: ^1.3.0
+  shared_preferences: ^2.0.20
+  oauth2: ^2.0.1
+  flutter_appauth: ^4.2.1+1
+  permission_handler: ^10.2.0
+  http: ^1.0.0
+  url_launcher: ^6.1.10
+  mailer: ^6.0.1
+  fitbitter: ^2.0.1
+  provider: ^6.0.5
+  floating_bottom_navigation_bar: ^1.5.2
+  animated_text_kit: ^4.2.2
+  gauges: ^1.0.0
+  scrollable_positioned_list:
+  image_picker: ^0.8.7+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/

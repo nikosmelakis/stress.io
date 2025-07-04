@@ -42,8 +42,8 @@ Users can monitor their physical state through real-time data visualization and 
 ## Technologies Used 🧰
 - **Flutter**: For building the mobile app.
 - **Dart**: Primary programming language.
-- **Fitbit Web API**: For accessing health and activity data
-- **OAuth2**: For secure Fitbit user authentication
+- **Fitbit Web API**: For accessing health and activity data.
+- **OAuth2**: For secure Fitbit user authentication.
 - **SQLite**: For local database.
 
 ## Contributing 🤝

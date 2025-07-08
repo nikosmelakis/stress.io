@@ -11,6 +11,7 @@ Users can monitor their physical state through real-time data visualization and 
 
 ![img-removebg-preview](https://github.com/nikosmelakis/stress.io/assets/136566515/43c526d0-17ce-4197-afb4-f9d10913fd6d)
 
+View Full Document: https://apothesis.hmu.gr/handle/123456789/11160
 
 ## Features 🚀
 

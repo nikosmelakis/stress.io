@@ -13,6 +13,7 @@ Users can monitor their physical state through real-time data visualization and 
 
 View Full Document: https://apothesis.hmu.gr/handle/123456789/11160
 
+
 ## Features 🚀
 
 - Real-time Fitbit data integration

@@ -1,4 +1,4 @@
-# Stress.io 📱 ![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0-blue) ![Forks](https://img.shields.io/badge/fork-1.0-red) 
+# Stress.io 📱 ![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0-blue)
 
 
 
